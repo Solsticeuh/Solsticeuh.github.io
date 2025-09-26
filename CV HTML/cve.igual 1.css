@@ -1,0 +1,44 @@
+p{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+}
+h3{
+    margin-top: 30px;
+    margin-bottom: 5px;
+}
+.bandenoire{
+    background-color: black;
+    color: white;
+    height: 220px;
+    width: 827px;
+    padding: 20px;
+    display: flow-root;
+}
+.container{
+    display: flex;
+    float: right;
+}
+
+.colonne{
+    width: 70%;
+    margin-left: 20px;
+    padding: 0px;
+}
+.colonneg{
+    width:30%;
+    padding: 0px;
+    margin: 0px;
+}
+.bandemarron{
+    background-color: burlywood;
+    height: 715px;
+}
+.bandenoire img{
+    clip-path: circle(125px at 9rem 30%);
+    float: right;
+    margin-top: -25px;
+}
